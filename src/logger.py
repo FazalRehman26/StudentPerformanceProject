@@ -1,7 +1,7 @@
 import logging
 import os
 from datetime import datetime
-from src.utils.custom_exception import CustomException
+from src.Utils.custom_exception import CustomException
 
 
 
